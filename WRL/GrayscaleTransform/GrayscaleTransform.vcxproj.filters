@@ -20,4 +20,7 @@
   <ItemGroup>
     <Midl Include="GrayscaleTransform.idl" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="GrayscaleTransform.def" />
+  </ItemGroup>
 </Project>

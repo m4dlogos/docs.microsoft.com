@@ -1,10 +1,10 @@
-import "Windows.Media.idl"
+import "Windows.Media.idl";
 
 #include <sdkddkver.h>
 
 namespace GrayscaleTransform
 {
-   [version(NTDDI_WIN8), activable(NTDDI_WIN8)]
+   [version(NTDDI_WIN8), activatable(NTDDI_WIN8)]
    runtimeclass GrayscaleEffect
    {
       [default] interface Windows.Media.IMediaExtension;
