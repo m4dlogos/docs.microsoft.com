@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaCapture", "MediaCapture\MediaCapture.csproj", "{60A3B40A-D0F6-4614-BFC9-DC609550532E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WRLLogger", "WRLLogger\WRLLogger.vcxproj", "{910E780F-07DD-44AC-8E23-2B03BB011526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -143,6 +145,18 @@ Global
 		{60A3B40A-D0F6-4614-BFC9-DC609550532E}.Release|x86.ActiveCfg = Release|x86
 		{60A3B40A-D0F6-4614-BFC9-DC609550532E}.Release|x86.Build.0 = Release|x86
 		{60A3B40A-D0F6-4614-BFC9-DC609550532E}.Release|x86.Deploy.0 = Release|x86
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Debug|ARM.ActiveCfg = Debug|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Debug|x64.ActiveCfg = Debug|x64
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Debug|x64.Build.0 = Debug|x64
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Debug|x86.ActiveCfg = Debug|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Debug|x86.Build.0 = Debug|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Release|ARM.ActiveCfg = Release|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Release|ARM64.ActiveCfg = Release|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Release|x64.ActiveCfg = Release|x64
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Release|x64.Build.0 = Release|x64
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Release|x86.ActiveCfg = Release|Win32
+		{910E780F-07DD-44AC-8E23-2B03BB011526}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
